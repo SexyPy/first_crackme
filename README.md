@@ -13,10 +13,10 @@ Let's get a CrackMe... [mohammadali](https://crackmes.one/crackme/5fe8258333c5d4
 Windows
 
 **Difficulty:**
-1.0 Rate!
+1.0
 
 **Quality:**
-4.8 Rate!
+4.8
 
 **Arch:**
 x86
